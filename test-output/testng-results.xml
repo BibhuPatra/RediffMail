@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-12T21:46:47 IST" name="Default suite" finished-at="2021-08-12T21:46:51 IST" duration-ms="4166">
+    <groups>
+    </groups>
+    <test started-at="2021-08-12T21:46:47 IST" name="Default test" finished-at="2021-08-12T21:46:51 IST" duration-ms="4166">
+      <class name="Keyword_Action">
+        <test-method is-config="true" signature="launch_browser()[pri:0, instance:Keyword_Action@483f6d77]" started-at="2021-08-12T21:46:47 IST" name="launch_browser" finished-at="2021-08-12T21:46:49 IST" duration-ms="1914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method signature="login()[pri:1, instance:Keyword_Action@483f6d77]" started-at="2021-08-12T21:46:49 IST" name="login" finished-at="2021-08-12T21:46:51 IST" duration-ms="2212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- Keyword_Action -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
